@@ -18,8 +18,9 @@ Techs that I've used at least once.
 <div align=center>
 <!--소개-->
 <h3>Introduce</h3>
- 
-안녕하세요! 공부중인 신입개발자입니다. :relaxed:
+- `Java`와 `Kotlin`을 좋아하는 백엔드 개발자입니다. 
+- `Spring Framework`, `MSA`, `DevOps`에 관심이 많습니다.
+- `Android` 개발도 병행하고 있습니다.
 <br/><br/>
  
  <!--기술스택-->
