@@ -4,6 +4,8 @@ Techs that I've used at least once.
 <img src="https://img.shields.io/badge/Spring-6DB33F/?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F/?style=flat&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Security-6DB33F/?style=flat&logo=Spring Security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF/?style=flat&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84/?style=flat&logo=Android&logoColor=white"/>
 
 
 ## Programming Language
