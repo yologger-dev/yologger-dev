@@ -8,6 +8,7 @@ Techs that I've used at least once.
 <img src="https://img.shields.io/badge/Android-3DDC84/?style=flat&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED/?style=flat&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-D00000/?style=flat&logo=Kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Kafka-231F20/?style=flat&logo=Apache Kafka&logoColor=white"/>
 
 
 ## Programming Language
