@@ -15,18 +15,15 @@ Techs that I've used at least once.
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Yologger&desc=Backend%20Engineer&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
-<!--소개-->
-<div align=center>
-<h3>Introduce</h3>
- <div>`Java`와 `Kotlin`을 좋아하는 백엔드 개발자입니다. </div>
- <div>`Spring Framework`, `MSA`, `DevOps`에 관심이 많습니다. </div>
- <div>`Android` 개발도 병행하고 있습니다. </div>
-</div>
-<br/><br/>
+### Introduce
+- `Java`와 `Kotlin`을 좋아하는 백엔드 개발자입니다.
+- `Spring Framework`, `MSA`, `DevOps`에 관심이 많습니다.
+- `Android` 개발도 병행하고 있습니다. 
 
-<!--기술스택-->
-<h3>Skill </h3>
-<!--프론트-->
+### Skill
+<!-- Launguage -->
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
