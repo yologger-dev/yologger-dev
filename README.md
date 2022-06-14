@@ -34,46 +34,14 @@
 
 <!-- etc -->
 <p float="left">
+ <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
  <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=Apache Maven&logoColor=white"/>
 </>
 
-
-
-
-<!--공부중 -->
-<h3>Studying </h3>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-<!--백-->
-<br/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-<!--언어 및 툴 --> <br/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
-
-<br/>
-<br/>
-
-<!--알고리즘 -->
-<a href="https://github.com/yoon828/Algorithm" > <h3>:muscle: Problem Solving </h3> </a>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yoon828990)](https://solved.ac/yoon828990)<br/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-
-<br/><br/><br/>
-
-<!--깃허브
-<h3>:eyes: Github</h3>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoon828&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon828&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-<br/><br/><br/> -->
-
  
-</div>
-
 ## Programming Language
 - Java
 - Kotlin
