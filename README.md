@@ -23,6 +23,7 @@
  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
  <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat&logo=Amazon AWS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 </p>
 
 <!-- database -->
@@ -34,6 +35,7 @@
 
 <!-- etc -->
 <p float="left">
+ <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white"/>
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
@@ -41,59 +43,9 @@
  <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=Apache Maven&logoColor=white"/>
 </>
 
- 
-## Programming Language
-- Java
-- Kotlin
- 
-## Spring
-* Spring Boot
-* Spring MVC
-* Spring Test
-* Spring Security  
-* Spring Validation
-* Spring Mail
-* Spring Data JPA
-   * Hibernate 
-   * Query DSL
-* Spring Data Mongo
-* Spring Data Redis
-* Spring WebFlux
-* Spring WebSocket
-* Spring gRPC
-* Spring Kafka 
-
-## Infra/DevOps
-* AWS - EC2, S3, RDS, Code Deploy, ECR
-* Docker
-* Kubernetes (ArgoCD, Kustomize)
-* GitHub Actions
-* Apache Kafka
-
-## Database
-* Oracle
-* MySQL
-* Maria DB
-* Mongo DB
-* Redis
-
-## Android
-- ACC
-- Jetpack Compose
-- RxJava
-- Coroutine
-- Koin
-- Hilt
-- TDD
-  - JUnit 4
-  - Mockito
-  - Espresso
-  - MockWebServer
-- Retrofit2
-- Glide
-- MVC, MVP, MVVM
-- Clean Architecture
-
-yologger-dev/yologger-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Studying
+<p float="left">
+ <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"/>
+</>
