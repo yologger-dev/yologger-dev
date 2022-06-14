@@ -17,13 +17,13 @@ Techs that I've used at least once.
 
 <div align=center>
 <!--소개-->
-<h1>Introduce</h1>
+<h3>Introduce</h3>
  
 안녕하세요! 공부중인 신입개발자입니다. :relaxed:
 <br/><br/>
  
  <!--기술스택-->
-   <h2>Skill </h2>
+   <h3>Skill </h3>
   <!--프론트-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
@@ -41,7 +41,7 @@ Techs that I've used at least once.
 <br/><br/>
   
  <!--공부중 -->
- <h2>Studying </h2>
+ <h3>Studying </h3>
 
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
   <!--백-->
