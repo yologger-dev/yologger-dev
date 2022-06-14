@@ -1,17 +1,4 @@
 
-Techs that I've used at least once.
-
-<img src="https://img.shields.io/badge/Spring-6DB33F/?style=flat&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F/?style=flat&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Security-6DB33F/?style=flat&logo=Spring Security&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF/?style=flat&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84/?style=flat&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED/?style=flat&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-D00000/?style=flat&logo=Kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache Kafka-231F20/?style=flat&logo=Apache Kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-231F20/?style=flat&logo=Redis&logoColor=white"/>
-
-
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Yologger&desc=Backend%20Engineer&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
@@ -30,7 +17,12 @@ Techs that I've used at least once.
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 </p>
 
-
+<!-- backend -->
+<p float="left">
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
+</p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
