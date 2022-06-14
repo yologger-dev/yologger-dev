@@ -1,7 +1,7 @@
 
 Techs that I've used at least once.
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F/?style=flat&logo=Spring&logoColor=black"/>
 
 
 ## Programming Language
