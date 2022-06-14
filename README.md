@@ -12,28 +12,18 @@ Techs that I've used at least once.
 <img src="https://img.shields.io/badge/Redis-231F20/?style=flat&logo=Redis&logoColor=white"/>
 
 
-<!--
-**yoon828/yoon828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20YoonMin&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Yologger&desc=Backend%20Engineer&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
 <div align=center>
 <!--소개-->
-<h3>:raised_hands: Introduction </h3>
+<h1>Introduce</h1>
+ 
 안녕하세요! 공부중인 신입개발자입니다. :relaxed:
 <br/><br/>
+ 
  <!--기술스택-->
-   <h3>:four_leaf_clover:Skill </h3>
+   <h3>Skill </h3>
   <!--프론트-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
@@ -51,7 +41,7 @@ Here are some ideas to get you started:
 <br/><br/>
   
  <!--공부중 -->
- <h3>:pencil2: Studying </h3>
+ <h3>Studying </h3>
 
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
   <!--백-->
